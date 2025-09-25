@@ -1,6 +1,6 @@
 ## Hi I'm Gurleen!
 - I am a computer science student learning more about AI! Watch my skills and experience grow here!
-- 🌱 I’m currently learning machine learning foundations!
+- 🌱 I’m currently in AI Studio I and working off my machine learning foundations experience nad building a web application!
 - 👯 I’m looking to collaborate on open source projects with AI or machine learning models!
 - 💬 Ask me about my experience with the Break Through Tech AI program!
 
