@@ -1,14 +1,36 @@
 ## Hi I'm Gurleen!
 
+👋 Hi, I'm Gurleen!
+I'm a Computer Science student in my junior year, passionate about building impactful technology at the intersection of Web Applications, Artificial Intelligence, and Software Engineering.
+🌟 I love creating practical, data-driven solutions that enhance user experience and make a real-world impact — whether it’s through clean, scalable code or intelligent systems that learn and adapt.
+📍 Let’s connect on LinkedIn: https://www.linkedin.com/in/gurleen-kaur0/
+📧 Reach me at: kaur.gurleen.w@gmail.com
 
-About Me:
-- Hi, I'm Gurleen, a computer science student, in my junior year of university. My interests are in three main areas, web applications, AI, and software engineering. 
-Let's connect on LinkedIn: https://www.linkedin.com/in/gurleen-kaur0/
 
-What I am currently working on:
-- 🌱 I’m currently in AI Studio I and working off my machine learning foundations experience, and building a web application in collaboration with the company Snowflake. I am working in a team of 6 to create a web app that applies to the field of healthcare. 
-- 👯 I'm currently working on building a interactive online website for a small family business as apart of my software engineering course. 
-- 💬 Ask me about my experience with the Break Through Tech AI program!
+
+🚀 What I’m Currently Working On
+💡 AI Studio I – Healthcare Web App (in collaboration with Snowflake)
+Currently applying my machine learning foundations to build a healthcare-focused web application alongside a team of six. Our project integrates AI insights with Snowflake’s data platform to drive smarter, more accessible healthcare analytics.
+💻 Interactive Website for a Small Business
+As part of my Software Engineering course, I’m developing a fully interactive online platform to help a family business strengthen its digital presence and streamline operations.
+💬 Ask Me About:
+My experience with the Break Through Tech AI Program, where I deepened my skills in applied machine learning and real-world problem solving.
+
+
+
+🧠 Technical Interests
+- Machine Learning & AI – building, training, and deploying models
+- Web Development – full-stack apps with modern frameworks
+- Software Engineering – clean, maintainable, and scalable code
+- Data Science – using data to generate insights and drive decisions
+
+
+🌱 Continuous Growth
+I’m committed to continuous learning, hands-on collaboration, and contributing to meaningful projects in tech, particularly in AI-driven web systems that solve real problems.
+
+
+
+
 
 
 
