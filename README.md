@@ -27,8 +27,8 @@ About Me 👋
 
 
 🌱 Continuous Growth
-I’m committed to continuous learning, hands-on collaboration, and contributing to meaningful projects in tech, particularly in AI-driven web systems that solve real problems.
-
+- I am always looking for new things to learn in tech. Currently, I like building a foundation of a certain topic and then applying what I learned in hands-on collaborations, either independently or with others. 
+- I’m committed to continuous learning, contributing to meaningful projects in tech, particularly in AI-driven web systems that solve real problems.
 
 
 
