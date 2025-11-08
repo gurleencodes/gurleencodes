@@ -1,7 +1,7 @@
 ## Hi I'm Gurleen!
 
 About Me 👋
-- I'm a Computer Science student in my junior year, passionate about building impactful technology at the intersection of Web Applications, Artificial Intelligence, and Software Engineering.
+- I'm a Computer Science student in my junior year studying at Hofstra University, passionate about building impactful technology at the intersection of Web Applications, Artificial Intelligence, and Software Engineering.
 - 🌟 I love creating practical, data-driven solutions that enhance user experience and make a real-world impact — whether it’s through clean, scalable code or intelligent systems that learn and adapt.
 - 📍 Let’s connect on LinkedIn: https://www.linkedin.com/in/gurleen-kaur0/
 - 📧 Reach me at: kaur.gurleen.w@gmail.com
