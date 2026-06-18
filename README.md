@@ -24,6 +24,7 @@ About Me
 - Web Development – full-stack apps with modern frameworks
 - Software Engineering – clean, maintainable, and scalable code
 - Data Science – using data to generate insights and drive decisions
+- BioTech - interested in using tech to train deep learning models to analyze medical data
 
 
 🌱 Continuous Growth
