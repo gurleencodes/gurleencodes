@@ -40,7 +40,6 @@ Technologies used across my projects and coursework.
 - [Personal Portfolio](https://github.com/gurleencodes/Personal-Website) — My React and Vite portfolio website.
 - [Healthcare Access Analysis](https://github.com/gurleencodes/AI-Studio)¹ — ZIP-code vulnerability scoring, New York mapping, and clustering through Break Through Tech AI Studio, in collaboration with Snowflake.
 
-- [HALO Web Platform](https://github.com/gurleencodes/Halo-Group)¹ — Next.js and TypeScript product website in development.
 - [xv6: User Stack & Virtual Memory](https://github.com/gurleencodes/xv6-project3)¹ — C and x86 operating systems coursework exploring stack layout, fork copying, and page-fault handling.
 - [Machine Learning Foundations Labs](https://github.com/gurleencodes/BTT-ML-Labs)¹ — Python exercises in data analysis, classification, and model evaluation.
 - [Unity Game Project](https://github.com/gurleencodes/myUnityGame)¹ — Early project placeholder; source and a playable demo are not yet published.
