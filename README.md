@@ -1,66 +1,48 @@
-## Hi I'm Gurleen!
+# Hi, I'm Gurleen! 👋
 
-About Me
-- I'm a Computer Science student in my senior year studying at Hofstra University, interested in building impactful technology at the intersection of Web Applications, Artificial Intelligence, and Software Engineering.
-- I like creating practical, data-driven solutions that enhance user experience and make a real-world impact — whether it’s through clean, scalable code or intelligent systems that learn and adapt.
+I'm a Computer Science senior at Hofstra University who enjoys turning ideas into useful applications. My focus is **full-stack development and machine learning**, with an interest in healthcare and security.
 
+I'm also exploring **MNE-Python and EEG signal analysis** through my interest in applying ML to biomedical data.
 
-🚀 What I’m Currently Working On
-- Interactive website for a small local business
-- Exploring MNE-Python
-- Learning about EEG signal analysis!
+[![LinkedIn](https://img.shields.io/badge/Let%E2%80%99s_connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gurleen-kaur0/)
+[![Email](https://img.shields.io/badge/Say_hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaur.gurleen.w@gmail.com)
 
+## Featured projects
 
-Ask Me About:
-      - My experience with the Break Through Tech AI Program, where I deepened my skills in applied machine learning and real-world problem solving.
+- **[RE's Hardware Store](https://github.com/Subhan2117/re-hardware-store)** — A team-built e-commerce platform for a local family hardware store. I contributed to the frontend using Next.js and React.
+- **Sentry** *(in progress)* — My senior design team project focused on web traffic telemetry and security monitoring, where I contribute as a full-stack developer. Case study and demo coming soon.
 
+[See more projects below ↓](#more-projects)
 
-## Projects
+## Tech stack
 
-- [Investment App](https://github.com/gurleencodes/Investment-App) — Vue investment dashboard prototype with asset category pages and a Capacitor iOS project.
-- [Personal Portfolio](https://github.com/gurleencodes/Personal-Website) — React portfolio website.
-- [xv6 Project 3](https://github.com/gurleencodes/xv6-project3) *(private; access required)* — Operating systems coursework exploring user stacks, virtual memory, and page-fault handling.
-- [Machine Learning Labs](https://github.com/gurleencodes/BTT-ML-Labs) *(private; access required)* — Break Through Tech machine learning coursework.
+Technologies used across my projects and coursework.
 
-- [Break Through Tech: AI Studio I – Healthcare Web App](https://github.com/gurleencodes/AI-Studio) *(private; access required)* — in collaboration with Snowflake
-      - Applied my machine learning foundations to build a healthcare-focused web application alongside a team of six. The project integrates AI insights with Snowflake’s data platform to drive smarter, more accessible healthcare analytics.
-- Interactive website for a small local business
-      - Developed a fully interactive online platform with a team to help a family hardware store strengthen its digital presence and streamline operations as a front-end developer.
+### Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
+### Data & machine learning
 
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-🔭 Technical Interests
-- Machine Learning & AI – building, training, and deploying models
-- Web Development – full-stack apps with modern frameworks
-- Software Engineering – clean, maintainable, and scalable code
-- Data Science – using data to generate insights and drive decisions
-- BioTech - interested in using tech to train deep learning models to analyze medical data
+### Frameworks & libraries
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-🌱 Continuous Growth
-- I am always looking for new things to learn in tech. Currently, I like building a foundation of a certain topic and then applying what I learned in hands-on collaborations, either independently or with others. 
-- I’m committed to continuous learning, contributing to meaningful projects in tech, particularly in AI-driven web systems that solve real problems.
+### Tools & platforms
 
-📫 Connect with Me:
-- Let’s connect on LinkedIn: https://www.linkedin.com/in/gurleen-kaur0/
-- Reach me at: kaur.gurleen.w@gmail.com
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+## More projects
 
+- [Investment App](https://github.com/gurleencodes/Investment-App) — Vue investment dashboard prototype with a Capacitor iOS project.
+- [Personal Portfolio](https://github.com/gurleencodes/Personal-Website) — My React and Vite portfolio website.
+- [Healthcare Access Analysis](https://github.com/gurleencodes/AI-Studio)¹ — ZIP-code vulnerability scoring, New York mapping, and clustering through Break Through Tech AI Studio, in collaboration with Snowflake.
 
+- [HALO Web Platform](https://github.com/gurleencodes/Halo-Group)¹ — Next.js and TypeScript product website in development.
+- [xv6: User Stack & Virtual Memory](https://github.com/gurleencodes/xv6-project3)¹ — C and x86 operating systems coursework exploring stack layout, fork copying, and page-fault handling.
+- [Machine Learning Foundations Labs](https://github.com/gurleencodes/BTT-ML-Labs)¹ — Python exercises in data analysis, classification, and model evaluation.
+- [Unity Game Project](https://github.com/gurleencodes/myUnityGame)¹ — Early project placeholder; source and a playable demo are not yet published.
 
-<!--
-**gurleencodes/gurleencodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AI studio. 
-- 🌱 I’m currently learning machine learning foundations!
-- 👯 I’m looking to collaborate on open source projects with AI or machine learning models!
-- 💬 Ask me about my experience with Break Through Tech AI!
-- 📫 How to reach me: 
--->
-
-
-
-
+¹ Private repository; access is required to view it.
