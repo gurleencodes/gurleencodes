@@ -15,8 +15,14 @@ Ask Me About:
       - My experience with the Break Through Tech AI Program, where I deepened my skills in applied machine learning and real-world problem solving.
 
 
-<3 Projects :
-- Break Through Tech: AI Studio I – Healthcare Web App (in collaboration with Snowflake)
+## Projects
+
+- [Investment App](https://github.com/gurleencodes/Investment-App) — Vue investment dashboard prototype with asset category pages and a Capacitor iOS project.
+- [Personal Portfolio](https://github.com/gurleencodes/Personal-Website) — React portfolio website.
+- [xv6 Project 3](https://github.com/gurleencodes/xv6-project3) *(private; access required)* — Operating systems coursework exploring user stacks, virtual memory, and page-fault handling.
+- [Machine Learning Labs](https://github.com/gurleencodes/BTT-ML-Labs) *(private; access required)* — Break Through Tech machine learning coursework.
+
+- [Break Through Tech: AI Studio I – Healthcare Web App](https://github.com/gurleencodes/AI-Studio) *(private; access required)* — in collaboration with Snowflake
       - Applied my machine learning foundations to build a healthcare-focused web application alongside a team of six. The project integrates AI insights with Snowflake’s data platform to drive smarter, more accessible healthcare analytics.
 - Interactive website for a small local business
       - Developed a fully interactive online platform with a team to help a family hardware store strengthen its digital presence and streamline operations as a front-end developer.
